@@ -29,23 +29,7 @@ ai-content-template
 - 第 3 節：再將 `風格指引範例.md`、`website-content.json` 上傳或貼到 Gemini，練習讓 AI 參考檔案產出可替換的內容資料。
 - 第 3 節圖片練習：預設 `website-content.json` 先不放圖片欄位，讓學員練習補上 `imageUrl` 與 `imageAlt` 後，再重新整理網頁觀察圖片是否出現。
 
-## 課堂範例圖片網址
 
-如果課堂中暫時找不到合適圖片，可以先使用以下範例網址練習。這些網址可以直接放入 `features` 的 `imageUrl` 欄位：
-
-```text
-圖片 1：https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80
-圖片 2：https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80
-圖片 3：https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80
-```
-
-## 給 Gemini 的 Prompt 範例
-
-```text
-請根據以下品牌資料，產生一份可以放進網站的 JSON。
-
-品牌名稱：AI 協作產品經理實戰課
-目標對象：想學會使用 AI 整理需求、產出文件與規劃網站內容的初學者
 網站目的：介紹課程價值，讓使用者了解課程特色並願意諮詢
 語氣：專業、清楚、對初學者友善
 
