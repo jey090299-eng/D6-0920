@@ -89,3 +89,5 @@ ai-content-template
 - 使用 Live Server 開啟後，畫面是否正常顯示？
 - Console 是否有錯誤訊息？
 從電腦移交
+
+從電腦再移交
